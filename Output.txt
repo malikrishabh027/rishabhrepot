@@ -1,0 +1,1 @@
+this file generates the o/p when user perofmr any action
